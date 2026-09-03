@@ -1,26 +1,28 @@
 about:
-  description: A command-line tool to generate, analyze, convert and manipulate colors
+  description:
+  |
+    A command-line tool to generate, analyze, convert and manipulate colors
   license: Apache-2.0
   homepage: 
   head: 01d4252
   archived: false
   latestVersion: v0.12.0
-  collectedAt: 2026-09-03T05:13:05Z
+  collectedAt: 2026-09-03T22:37:45Z
 timeline:
   created: 2019-06-02
   lastCommit: 2026-03-13
   lastRelease: 2026-02-14
 popularity:
-  star: 6483
+  star: 6484
   watcher: 27
-  fork: 130
+  fork: 131
   release: 15
   contributor: 43
   pullRequest: 64
   issue: 141
 language:
   Rust: 233905
-totalLine: 233905
+totalBytes: 233905
 recent:
   last30d:
     since: 2026-08-04
