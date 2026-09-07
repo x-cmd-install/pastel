@@ -5,7 +5,7 @@ about:
   head: 01d4252
   archived: false
   latestVersion: "v0.12.0"
-  collectedAt: 2026-09-07T04:35:43Z
+  collectedAt: 2026-09-07T19:46:46Z
 timeline:
   created: 2019-06-02
   lastCommit: 2026-03-13
@@ -79,7 +79,7 @@ total:
   commit: 541
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/pastel
-collectedAt: 2026-09-07T04:35:46Z
+collectedAt: 2026-09-07T19:46:48Z
 loc:
   Rust:
     code: 6022
@@ -210,7 +210,7 @@ checks:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:46+00:00
+  collectedAt: 2026-09-07T19:46:49+00:00
   platform:
     darwin/arm64:
       name:  pastel-v0.12.0-aarch64-apple-darwin.tar.gz
