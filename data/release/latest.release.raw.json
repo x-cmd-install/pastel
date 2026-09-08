@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 486868,
       "digest": "sha256:d61f2d78b28f1a4237e45e9ee1284909f7d833cfb081f0c1815dc963ac916b25",
-      "download_count": 380,
+      "download_count": 381,
       "created_at": "2026-02-14T13:03:39Z",
       "updated_at": "2026-02-14T13:03:39Z",
       "browser_download_url": "https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-i686-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 519163,
       "digest": "sha256:51e914b0308b089f032c481e786d67a9f11d8857f4ffe99405f3452e77582393",
-      "download_count": 3946,
+      "download_count": 3949,
       "created_at": "2026-02-14T13:04:14Z",
       "updated_at": "2026-02-14T13:04:14Z",
       "browser_download_url": "https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 572067,
       "digest": "sha256:72ca1db49696701a53fd8a2dff4c8b167c31c1ac4fa5acbd1ba8fc062d1b1e3e",
-      "download_count": 4501,
+      "download_count": 4507,
       "created_at": "2026-02-14T13:02:29Z",
       "updated_at": "2026-02-14T13:02:29Z",
       "browser_download_url": "https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-unknown-linux-gnu.tar.gz"
