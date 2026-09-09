@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.0"
   latestRelease: "v0.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:47:45Z
+  collectedAt: 2026-09-09T18:53:25Z
 timeline:
   created: 2019-06-02
   lastCommit: 2026-03-13
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-14
   lastPrerelease: 
 popularity:
-  star: 6485
+  star: 6486
   watcher: 28
   fork: 130
   release: 15
@@ -83,7 +83,7 @@ total:
   commit: 541
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/pastel
-collectedAt: 2026-09-09T04:47:47Z
+collectedAt: 2026-09-09T18:53:26Z
 loc:
   Rust:
     code: 6022
