@@ -4,7 +4,7 @@
 
 A command-line tool to generate, analyze, convert and manipulate colors
 
-![pastel](https://repo.x-cmd.io/pastel.svg)
+![pastel](https://repo.x-cmd.io/pastel.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,34 @@ x install pastel
 - **最新版本**: `v0.12.0` (2026-02-14)
 - **最近提交**: 2026-03-13
 - **Release 含资产**: 19 个
-- **发布时间**: 2026-02-14T13:02:18Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pastel-musl_0.12.0_amd64.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-musl_0.12.0_amd64.deb) | 540.0 KiB | `runtime/deb/amd64` |
+| [pastel-musl_0.12.0_armhf.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-musl_0.12.0_armhf.deb) | 515.1 KiB | `runtime/deb/armhf` |
+| [pastel-musl_0.12.0_i686.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-musl_0.12.0_i686.deb) | 554.0 KiB | `other` |
+| [pastel-v0.12.0-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-aarch64-apple-darwin.tar.gz) | 490.5 KiB | `native/darwin/arm64` |
+| [pastel-v0.12.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-aarch64-unknown-linux-gnu.tar.gz) | 509.6 KiB | `native/linux/arm64/glibc` |
+| [pastel-v0.12.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-arm-unknown-linux-gnueabihf.tar.gz) | 541.3 KiB | `native/linux/arm/glibc` |
+| [pastel-v0.12.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-arm-unknown-linux-musleabihf.tar.gz) | 579.3 KiB | `native/linux/arm/musl` |
+| [pastel-v0.12.0-i686-pc-windows-msvc.zip](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-i686-pc-windows-msvc.zip) | 475.5 KiB | `native/win/x64` |
+| [pastel-v0.12.0-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-i686-unknown-linux-gnu.tar.gz) | 580.2 KiB | `native/linux/x86/glibc` |
+| [pastel-v0.12.0-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-i686-unknown-linux-musl.tar.gz) | 619.7 KiB | `native/linux/x86/musl` |
+| [pastel-v0.12.0-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-apple-darwin.tar.gz) | 540.8 KiB | `native/darwin/x64` |
+| [pastel-v0.12.0-x86_64-pc-windows-gnu.zip](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-pc-windows-gnu.zip) | 555.7 KiB | `native/win/x64` |
+| [pastel-v0.12.0-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-pc-windows-msvc.zip) | 507.0 KiB | `native/win/x64` |
+| [pastel-v0.12.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-unknown-linux-gnu.tar.gz) | 558.7 KiB | `native/linux/x64/glibc` |
+| [pastel-v0.12.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel-v0.12.0-x86_64-unknown-linux-musl.tar.gz) | 615.0 KiB | `native/linux/x64/musl` |
+| [pastel_0.12.0_amd64.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel_0.12.0_amd64.deb) | 489.5 KiB | `runtime/deb/amd64` |
+| [pastel_0.12.0_arm64.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel_0.12.0_arm64.deb) | 446.7 KiB | `runtime/deb/arm64` |
+| [pastel_0.12.0_armhf.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel_0.12.0_armhf.deb) | 475.6 KiB | `runtime/deb/armhf` |
+| [pastel_0.12.0_i686.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel_0.12.0_i686.deb) | 517.9 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 6,487 · **Fork**: 130 · **开放 issue**: 141 · **贡献者**: 43
+- **Star**: 6,486 · **Fork**: 130 · **开放 issue**: 141 · **贡献者**: 43
 
 ## 累计统计
 
@@ -70,4 +93,4 @@ pastel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:38:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:26:47Z._
