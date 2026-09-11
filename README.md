@@ -12,6 +12,27 @@ A command-line tool to generate, analyze, convert and manipulate colors
 x install pastel
 ```
 
+## Code insight
+
+Total: **6,084** lines of code across **44** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 6,022 | 134 | 907 | 39 |
+| Toml | 46 | 2 | 10 | 1 |
+| Sh | 16 | 1 | 5 | 1 |
+| Markdown | 0 | 286 | 145 | 3 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/sharkdp/pastel>
@@ -22,6 +43,25 @@ x install pastel
 - **Latest**: `v0.12.0` (2026-02-14)
 - **Last commit**: 2026-03-13
 - **Assets in release**: 19
+
+## Popularity
+
+- **Stars**: 6,487 · **Forks**: 130 · **Open issues**: 141 · **Contributors**: 43
+
+## Totals (cumulative)
+
+- **Releases**: 15 · **Merged PRs**: 115 · **Open PRs**: 14 · **Closed issues**: 115 · **Open issues**: 26 · **Commits**: 541
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 13 | 1 | 1 | 0 |
+| 360d | 2025-09-16 | 2 | 21 | 13 | 4 | 7 | 26 |
+| last720d | 2024-09-21 | 2 | 36 | 14 | 11 | 8 | 52 |
 
 ## Release assets
 
@@ -47,43 +87,6 @@ x install pastel
 | [pastel_0.12.0_armhf.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel_0.12.0_armhf.deb) | 475.6 KiB | `runtime/deb/armhf` |
 | [pastel_0.12.0_i686.deb](https://github.com/sharkdp/pastel/releases/download/v0.12.0/pastel_0.12.0_i686.deb) | 517.9 KiB | `other` |
 
-## Popularity
-
-- **Stars**: 6,486 · **Forks**: 130 · **Open issues**: 141 · **Contributors**: 43
-
-## Totals (cumulative)
-
-- **Releases**: 15 · **Merged PRs**: 115 · **Open PRs**: 14 · **Closed issues**: 115 · **Open issues**: 26 · **Commits**: 541
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 2 | 22 | 13 | 4 | 7 | 26 |
-
-## Code size
-
-Total: **6,084** lines of code across **44** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 6,022 | 134 | 907 | 39 |
-| Toml | 46 | 2 | 10 | 1 |
-| Sh | 16 | 1 | 5 | 1 |
-| Markdown | 0 | 286 | 145 | 3 |
-
-## OpenSSF Scorecard
-
-Overall score: **2.9 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Improve this data
 
 Install metadata for pastel lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pastel` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +96,4 @@ Install metadata for pastel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:46Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:18:49Z._
