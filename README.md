@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-06-14 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-16 | 0 | 0 | 13 | 1 | 1 | 0 |
-| 360d | 2025-09-17 | 2 | 20 | 13 | 4 | 7 | 26 |
-| last720d | 2024-09-22 | 2 | 36 | 14 | 11 | 8 | 52 |
+| 30d | 2026-08-14 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 0 | 0 | 13 | 1 | 1 | 0 |
+| 360d | 2025-09-18 | 2 | 20 | 13 | 4 | 7 | 26 |
+| last720d | 2024-09-23 | 2 | 36 | 14 | 11 | 8 | 52 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for pastel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:36:20Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:47:33Z._
