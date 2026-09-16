@@ -29,8 +29,8 @@ Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,492 · **Forks**: 132 · **Open issues**: 141 · **Contributors**: 43
+- **Stars**: 6,491 · **Forks**: 132 · **Open issues**: 141 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 115 · **Open PRs**: 14 · **Closed issues**: 115 · **Open issues**: 26 · **Commits**: 541
+- **Releases**: 15 · **Merged PRs**: 115 · **Open PRs**: 14 · **Closed issues**: 116 · **Open issues**: 25 · **Commits**: 541
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 0 | 0 | 13 | 0 | 1 | 0 |
-| 360d | 2025-09-20 | 2 | 20 | 13 | 4 | 7 | 25 |
-| last720d | 2024-09-25 | 2 | 36 | 14 | 11 | 8 | 52 |
+| 30d | 2026-08-17 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 0 | 0 | 13 | 0 | 1 | 0 |
+| 360d | 2025-09-21 | 2 | 20 | 13 | 5 | 6 | 25 |
+| last720d | 2024-09-26 | 2 | 36 | 14 | 12 | 7 | 52 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for pastel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:11:20Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:49:20Z._
