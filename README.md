@@ -4,7 +4,7 @@
 
 A command-line tool to generate, analyze, convert and manipulate colors
 
-[![x-cmd/install — pastel Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pastel.svg)](https://x-cmd.com/install/pastel)
+[![x-cmd/install — pastel Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pastel.svg)](https://x-cmd.com/install/pastel)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **2.9 / 10**
 Lowest-scoring checks:
 
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,502 · **Forks**: 133 · **Open issues**: 141 · **Contributors**: 43
+- **Stars**: 6,505 · **Forks**: 133 · **Open issues**: 141 · **Contributors**: 43
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 13 | 0 | 1 | 0 |
-| 360d | 2025-09-27 | 2 | 19 | 13 | 5 | 6 | 24 |
-| last720d | 2024-10-02 | 2 | 35 | 14 | 11 | 7 | 51 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 13 | 0 | 1 | 0 |
+| 360d | 2025-09-28 | 2 | 19 | 13 | 5 | 6 | 24 |
+| last720d | 2024-10-03 | 2 | 35 | 14 | 11 | 7 | 50 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for pastel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:53:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:51Z._
