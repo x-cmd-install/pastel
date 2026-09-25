@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,505 · **Forks**: 133 · **Open issues**: 141 · **Contributors**: 43
+- **Stars**: 6,510 · **Forks**: 133 · **Open issues**: 141 · **Contributors**: 43
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 13 | 0 | 1 | 0 |
-| 360d | 2025-09-29 | 2 | 19 | 13 | 5 | 6 | 24 |
-| last720d | 2024-10-04 | 2 | 35 | 14 | 11 | 7 | 50 |
+| 30d | 2026-08-26 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 0 | 0 | 13 | 0 | 1 | 0 |
+| 360d | 2025-09-30 | 2 | 19 | 13 | 5 | 6 | 24 |
+| last720d | 2024-10-05 | 2 | 35 | 14 | 11 | 7 | 50 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for pastel lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:41:44Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:50:25Z._
